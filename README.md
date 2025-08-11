@@ -1,2 +1,2 @@
 # Data_Structures_and_Algorithms
-My DSA Journey
+Starting my journey in CSES and Codeforces.
